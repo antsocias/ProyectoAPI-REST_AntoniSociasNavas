@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ariana Sánchez",
+    "edad": 28,
+    "partidosGanados": 542,
+    "marcaPala": "Head"
+  },
+  {
+    "id": 2,
+    "nombre": "Paula Josemaría",
+    "edad": 29,
+    "partidosGanados": 498,
+    "marcaPala": "Head"
+  },
+  {
+    "id": 3,
+    "nombre": "Bea González",
+    "edad": 24,
+    "partidosGanados": 385,
+    "marcaPala": "StarVie"
+  },
+  {
+    "id": 4,
+    "nombre": "Delfi Brea",
+    "edad": 26,
+    "partidosGanados": 412,
+    "marcaPala": "Bullpadel"
+  },
+  {
+    "id": 5,
+    "nombre": "Gemma Triay",
+    "edad": 33,
+    "partidosGanados": 515,
+    "marcaPala": "Bullpadel"
+  },
+  {
+    "id": 6,
+    "nombre": "Marta Ortega",
+    "edad": 27,
+    "partidosGanados": 460,
+    "marcaPala": "Adidas"
+  },
+  {
+    "id": 7,
+    "nombre": "Claudia Fernández",
+    "edad": 18,
+    "partidosGanados": 125,
+    "marcaPala": "Bullpadel"
+  },
+  {
+    "id": 8,
+    "nombre": "Arturo Coello",
+    "edad": 22,
+    "partidosGanados": 340,
+    "marcaPala": "Head"
+  },
+  {
+    "id": 9,
+    "nombre": "Agustín Tapia",
+    "edad": 25,
+    "partidosGanados": 365,
+    "marcaPala": "Nox"
+  },
+  {
+    "id": 10,
+    "nombre": "Alejandro Galán",
+    "edad": 28,
+    "partidosGanados": 485,
+    "marcaPala": "Adidas"
+  },
+  {
+    "id": 11,
+    "nombre": "Juan Lebrón",
+    "edad": 30,
+    "partidosGanados": 510,
+    "marcaPala": "Babolat"
+  },
+  {
+    "id": 12,
+    "nombre": "Federico Chingotto",
+    "edad": 27,
+    "partidosGanados": 395,
+    "marcaPala": "Bullpadel"
+  }
+]
