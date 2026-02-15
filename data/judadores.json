@@ -3,96 +3,96 @@
     "id": 1,
     "nombre": "Ariana Sánchez",
     "edad": 28,
-    "partidos_ganados": 542,
-    "marca_pala": "Head",
+    "partidosGanados": 542,
+    "marcaPala": "Head",
     "posicion": "Revés"
   },
   {
     "id": 2,
     "nombre": "Paula Josemaría",
     "edad": 29,
-    "partidos_ganados": 498,
-    "marca_pala": "Head",
+    "partidosGanados": 498,
+    "marcaPala": "Head",
     "posicion": "Drive"
   },
   {
     "id": 3,
     "nombre": "Bea González",
     "edad": 24,
-    "partidos_ganados": 385,
-    "marca_pala": "StarVie",
+    "partidosGanados": 385,
+    "marcaPala": "StarVie",
     "posicion": "Revés"
   },
   {
     "id": 4,
     "nombre": "Delfi Brea",
     "edad": 26,
-    "partidos_ganados": 412,
-    "marca_pala": "Bullpadel",
+    "partidosGanados": 412,
+    "marcaPala": "Bullpadel",
     "posicion": "Drive"
   },
   {
     "id": 5,
     "nombre": "Gemma Triay",
     "edad": 33,
-    "partidos_ganados": 515,
-    "marca_pala": "Bullpadel",
+    "partidosGanados": 515,
+    "marcaPala": "Bullpadel",
     "posicion": "Revés"
   },
   {
     "id": 6,
     "nombre": "Marta Ortega",
     "edad": 27,
-    "partidos_ganados": 460,
-    "marca_pala": "Adidas",
+    "partidosGanados": 460,
+    "marcaPala": "Adidas",
     "posicion": "Drive"
   },
   {
     "id": 7,
     "nombre": "Claudia Fernández",
     "edad": 18,
-    "partidos_ganados": 125,
-    "marca_pala": "Bullpadel",
+    "partidosGanados": 125,
+    "marcaPala": "Bullpadel",
     "posicion": "Drive"
   },
   {
     "id": 8,
     "nombre": "Arturo Coello",
     "edad": 22,
-    "partidos_ganados": 340,
-    "marca_pala": "Head",
+    "partidosGanados": 340,
+    "marcaPala": "Head",
     "posicion": "Drive"
   },
   {
     "id": 9,
     "nombre": "Agustín Tapia",
     "edad": 25,
-    "partidos_ganados": 365,
-    "marca_pala": "Nox",
+    "partidosGanados": 365,
+    "marcaPala": "Nox",
     "posicion": "Revés"
   },
   {
     "id": 10,
     "nombre": "Alejandro Galán",
     "edad": 28,
-    "partidos_ganados": 485,
-    "marca_pala": "Adidas",
+    "partidosGanados": 485,
+    "marcaPala": "Adidas",
     "posicion": "Revés"
   },
   {
     "id": 11,
     "nombre": "Juan Lebrón",
     "edad": 30,
-    "partidos_ganados": 510,
-    "marca_pala": "Babolat",
+    "partidosGanados": 510,
+    "marcaPala": "Babolat",
     "posicion": "Revés/Drive"
   },
   {
     "id": 12,
     "nombre": "Federico Chingotto",
     "edad": 27,
-    "partidos_ganados": 395,
-    "marca_pala": "Bullpadel",
+    "partidosGanados": 395,
+    "marcaPala": "Bullpadel",
     "posicion": "Drive"
   }
 ]
