@@ -2,9 +2,9 @@
 FROM node:20-slim
 # Creem un directori de treball
 WORKDIR /app
-# Cambiar el propietario del directorio al usuario 'node' permite que el usuario pueda escribir/instalar sin ser root
+# Canviar el propietari del directori al usuari 'node' permet escriure/instal·lar sense ser root.
 RUN chown -R node:node /app
-#Empra l’usuari per defecte que crea node per a no executar com administrador.
+# Empra l’usuari per defecte que crea node per a no executar com administrador.
 USER node
 # Copia els fitxers de dependències primer amb els permisos correctes.
 COPY --chown=node:node package*.json ./
